@@ -54,6 +54,9 @@ The dashboard analyzes products including:
 💾 USB Drive
 
 🖼️ Dashboard Preview
+
+<img width="2119" height="1311" alt="image" src="https://github.com/user-attachments/assets/b1f8e0c8-cfa9-4c87-9e73-fc96090ff430" />
+
 🎯 Purpose
 The goal of this project is to provide a data-driven view of sales performance through an intuitive dashboard. It can be used to identify sales trends, understand product performance, monitor regional results, and support business analysis.
 
